@@ -1,11 +1,11 @@
-# Stunning Hero 
+# Stunning Hero
 
-A sleek and modern Hero Section built with **React** and **Tailwind CSS**.  
-This project was developed as part of a frontend challenge and showcases key UI skills, interactivity, and clean component structure.
+A sleek and modern Hero Section built with **React and Tailwind CSS**.  
+This project was developed as part of a frontend challenge and showcases key UI skills, interactivity, and inline editing.
 
 ---
 
-##  Features
+## Features
 
 - "Regenerate with AI" — swaps headline, subheadline, and image randomly
 - Inline editable text — click and type instantly
@@ -15,24 +15,17 @@ This project was developed as part of a frontend challenge and showcases key UI 
 
 ---
 
-##  Tech Stack
+## Tech Stack
 
-- **React** — UI component library (functional components & hooks)
-- **Tailwind CSS** — utility-first CSS framework for rapid styling
-- **Vite** — modern bundler for fast development and preview
-
----
-
-## 📂 Project Structure
-
-stunning-hero/ ├── public/ # Static assets (optional) ├── src/ │ ├── Hero.jsx # Main Hero Section component │ ├── App.jsx # Root component │ ├── main.jsx # Entry point │ └── index.css # Tailwind base styles ├── tailwind.config.js # Tailwind config ├── postcss.config.js # PostCSS config └── README.md # You're reading it
-
+- **React** – UI component library (functional components & hooks)
+- **Tailwind CSS** – utility-first CSS framework for rapid styling
+- **Vite** – modern bundler for fast development and preview
 
 ---
 
 ## Getting Started
 
-1. Clone the repository
+### 1. Clone the repository
 
 ```bash
 git clone https://github.com/devgendy/stunning-hero.git
@@ -43,5 +36,4 @@ cd stunning-hero
 npm install
 
 3. Start the development server
-npm run dev
-Open your browser and visit: http://localhost:5173
+# Open your browser and visit: http://localhost:5173
