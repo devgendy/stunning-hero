@@ -1,12 +1,47 @@
-# React + Vite
+# Stunning Hero 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek and modern Hero Section built with **React** and **Tailwind CSS**.  
+This project was developed as part of a frontend challenge and showcases key UI skills, interactivity, and clean component structure.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+##  Features
 
-## Expanding the ESLint configuration
+- "Regenerate with AI" — swaps headline, subheadline, and image randomly
+- Inline editable text — click and type instantly
+- Fully responsive layout — mobile-friendly and flexible
+- Powered by Vite for fast local development
+- Smooth scroll to a feature section
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+##  Tech Stack
+
+- **React** — UI component library (functional components & hooks)
+- **Tailwind CSS** — utility-first CSS framework for rapid styling
+- **Vite** — modern bundler for fast development and preview
+
+---
+
+## 📂 Project Structure
+
+stunning-hero/ ├── public/ # Static assets (optional) ├── src/ │ ├── Hero.jsx # Main Hero Section component │ ├── App.jsx # Root component │ ├── main.jsx # Entry point │ └── index.css # Tailwind base styles ├── tailwind.config.js # Tailwind config ├── postcss.config.js # PostCSS config └── README.md # You're reading it
+
+
+---
+
+## Getting Started
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/devgendy/stunning-hero.git
+cd stunning-hero
+
+
+2. Install dependencies
+npm install
+
+3. Start the development server
+npm run dev
+Open your browser and visit: http://localhost:5173
