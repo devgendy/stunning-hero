@@ -24,10 +24,10 @@ This project was developed as part of a frontend challenge and showcases key UI 
 ---
 
 ## Getting Started
-
-### 1. Clone the repository
-
 ```bash
+
+1. Clone the repository
+
 git clone https://github.com/devgendy/stunning-hero.git
 cd stunning-hero
 
